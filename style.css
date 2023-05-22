@@ -1,0 +1,35 @@
+.head{
+    background-color:white;
+    margin: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+
+.logo{
+    padding: 20px 15px 20px 40px;
+    display: inline;
+   
+}
+
+ul{
+    list-style-type: none;
+   
+}
+.list-item{
+    padding: 40px 20px 40px 20px;
+    display: inline;
+    margin: auto;
+  
+    
+}
